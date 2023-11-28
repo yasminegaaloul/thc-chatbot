@@ -6,7 +6,7 @@ To access the page just open [hc-chatbot](https://hc-chatbot.surge.sh)
 
 # How it works
 
-Once we crowled adjust help center we just needed to add this below script from the config we created for our App with social intents 
+Once we crawled adjust help center we just needed to add this below script from the config we created for our App with social intents 
 <script>
 var socialintents_chat=false;var socialintents_vars2_chat={};
 function getSICScriptURL(){var script =  document.currentScript || document.querySelector('script[src*="chat/socialintents.1.3.js"]');return script.src}
